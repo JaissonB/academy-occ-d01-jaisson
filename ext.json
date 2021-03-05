@@ -1,0 +1,18 @@
+{
+  "createdBy": "Compasso",
+  "developerID": "jaisson.bassane",
+  "extensionID": "cb5fbce7-e6b9-4ff8-a8a9-1e3138ada17d",
+  "translations": [{
+      "language": "en",
+      "name": "academy-occ-d01-jaisson",
+      "description": "Widget Example"
+    },
+    {
+      "language": "pt_BR",
+      "name": "academy-occ-d01-jaisson",
+      "description": "Widget exemplo"
+    }
+  ],
+  "timeCreated": "2021-03-04",
+  "version": 1
+}

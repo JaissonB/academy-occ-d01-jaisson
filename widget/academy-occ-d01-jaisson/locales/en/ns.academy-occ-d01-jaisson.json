@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "_comment": "Field example used in the application and translated into en",
+    "bannerTitle": "Planned Kitchens",
+    "bannerTitle1": "Dining Rooms",
+    "bannerTitle2": "Living Rooms",
+    "bannerTitle3": "Suites",
+    "bannerDescription": "Harmony in every detail!"
+  }
+}
